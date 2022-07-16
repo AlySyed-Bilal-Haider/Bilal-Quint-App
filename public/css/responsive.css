@@ -1,0 +1,690 @@
+/*
+====================================
+large Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+/*=== staking platform page start ===*/
+
+.platform-item h2 {
+    font-size: 30px;
+}
+
+/*=== luxury raffle pool page start ===*/
+
+.raffle-item img {
+    max-width: 500px;
+    top: -60px;
+}
+
+.raffle-item4-inner h3 {
+    font-size: 17px;
+}
+
+/*=== nft-02 page start ===*/
+
+.collection-item6-inner3 ul {
+    padding: 15px 0 130px;
+}
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+/*=== platform area start ===*/
+
+.refferal-item2-inner2 {
+    width: calc(40% - 15px);
+    padding: 20px 20px 35px;
+}
+
+.refferal-item2-inner {
+    width: calc(60% - 15px);
+    padding: 20px 25px;
+}
+
+/*=== footer area start ===*/
+
+.footer-item2 {
+    margin-top: 20px;
+}
+
+/*=== staking platform page start ===*/
+
+.platform-item-inner2 {
+    width: 38%;
+}
+
+.platform-item-inner3 {
+    width: 62%;
+}
+
+.platform-item h2 {
+    font-size: 26px;
+}
+
+/*=== conventional staking page start ===*/
+
+.accordion-area10 {
+    width: 900px;
+}
+
+/*=== quint essentials page start ===*/
+
+.essential-item {
+    padding: 16px 15px;
+}
+
+.essential-item h2 {
+    font-size: 20px;
+}
+
+.essential-item2 {
+    padding: 22px 20px 30px 20px;
+}
+
+.essential-item2 h2 {
+    font-size: 20px;
+}
+
+/*=== quint essentials-01 page start ===*/
+
+.history-area {
+    padding: 25px;
+}
+
+.history-item {
+    padding-right: 20px;
+}
+
+/*=== luxury raffle pool page start ===*/
+
+.raffle-item {
+    padding: 24px 15px;
+}
+
+.raffle-item h2 {
+    font-size: 28px;
+}
+
+.raffle-item img {
+    max-width: 350px;
+    top: -15px;
+}
+
+.raffle-item2 {
+    padding: 42px 25px 42px 25px;
+}
+
+.raffle-item2 h2 {
+    font-size: 24px;
+}
+
+.raffle-item2-inner4 {
+    flex: 0 0 275px;
+    width: 275px;
+    height: 276px;
+}
+
+.raffle-item5 {
+    padding: 15px 0 35px 0px;
+}
+
+.raffle-item6 .history-item {
+    width: 900px;
+    padding-right: 30px;
+}
+
+/*=== nft page start ===*/
+
+.collection-item {
+    width: calc(100% - 250px);
+    padding-right: 25px;
+}
+
+.collection-item-inner2 {
+    width: calc(100% - 258px);
+}
+
+.collection-item-inner2 input {
+    font-size: 12px;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.collection-item-inner3 {
+    width: 112px;
+}
+
+.collection-item-inner4 {
+    width: 146px;
+}
+
+.collection-item-inner5 ul {
+    margin: 0  -7px;
+}
+
+.collection-item-inner5 ul li {
+    padding: 0 7px;
+}
+
+.collection-item-inner30 .main-carousel {
+    margin: 0 -5px;
+    padding-right: 45px;
+} 
+
+.collection-item-inner30 .carousel-cell {
+    width: 15%;
+    padding: 0 5px;
+}
+
+.collection-item-inner6 {
+    padding: 0px 0px 25px 0;
+}
+
+.collection-item-inner7 {
+    padding-right: 0px;
+}
+
+.collection-item-inner7 .row {
+    margin: 0 -6px;
+}
+
+.collection-item-inner7 .col-md-4 {
+    padding: 0 6px;
+}
+
+.collection-item-inner20 {
+    padding: 15px 10px 0px;
+}
+
+.collection-item-inner9 {
+    margin-left: -0px;
+    margin-right: -0px;
+}
+
+.collection-item-inner10 div {
+    flex: 0 0 28px;
+    width: 28px;
+    height: 28px;
+}
+
+.collection-item-inner10 h2 {
+    font-size: 11px;
+}
+
+.collection-item-inner10 h2 span {
+    font-size: 8px;
+}
+
+.collection-item-inner8 h3 {
+    font-size: 14px;
+}
+
+.collection-item-inner11 {
+    width: calc(100% - 20px);
+    margin-left: 10px;
+}
+
+.collection-item2 {
+    width: 250px;
+}
+
+.collection-item2-inner2 {
+    display: block !important;
+    padding: 0;
+}
+
+/*=== nft-02 page start ===*/
+
+.collection-item6-inner3 ul {
+    padding: 15px 0 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {	
+
+
+.header-area {
+    padding-top: 25px;
+}
+
+.navbar-nav {
+    height: 100%;
+    width: 100%;
+}
+
+.navbar-nav li {
+    width: 100%;
+    margin: 5px 0;
+}
+
+.collapse > div {
+    display: none;
+}
+
+/*=== platform area start ===*/
+
+.platform-area {
+    padding: 30px 0;
+}
+
+.inner-container {
+    margin-bottom: 25px;
+}
+
+.refferal-item {
+    padding-left: 15px;
+    margin-top: 0;
+}
+
+.refferal-item-inner h2 {
+    font-size: 28px;
+}
+
+.refferal-item2-inner2 {
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 20px 20px 35px;
+}
+
+.refferal-item2-inner2 h2 {
+    font-size: 20px;
+}
+
+.refferal-item2-inner {
+    width: 100%;
+    padding: 20px 25px;
+}
+
+.refferal-item2-inner h2 {
+    font-size: 28px;
+}
+
+/*=== footer area start ===*/
+
+.footer-item {
+    margin-bottom: 30px;
+}
+
+/*=== staking platform page start ===*/
+
+.inner-container {
+    flex-wrap: wrap;
+}
+
+.inner-container ul {
+    width: 100%;
+    padding-right: 0px;
+    padding-top: 15px;
+}
+
+.inner-container ul li a {
+    margin-left: 0px;
+    margin-right: 30px;
+}
+
+#carouselExampleIndicators {
+    margin-top: -0px;
+}
+
+.platform-item-inner2 {
+    width: 100%;
+}
+
+.platform-item-inner3 {
+    width: 100%;
+}
+
+.platform-item h2 {
+    font-size: 28px;
+}
+
+/*=== conventional staking page start ===*/
+
+.prize-item2 .prize-item-inner3 {
+    width: 100%;
+}
+
+.prize-item-inner4 {
+    width: 250px;
+}
+
+.accordion-area10 {
+    width: 900px;
+}
+
+/*=== quint essentials page start ===*/
+
+.essential-area4 {
+    margin-top: -0px;
+}
+
+.essential-item {
+    border-radius: 20px !important;
+    width: 100%;
+    height: 150px;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    -ms-border-radius: 20px !important;
+    -o-border-radius: 20px !important;
+}
+
+.essential-item h2 {
+    font-size: 25px;
+}
+
+.essential-item2 {
+    width: 100%;
+    border-radius:20px !important;
+    /*padding: 22px 15px 20px 15px;
+    */padding: 20px 15px !important;
+    -webkit-border-radius:20px !important;
+    -moz-border-radius:20px !important;
+    -ms-border-radius:20px !important;
+    -o-border-radius:20px !important;
+}
+
+.essential-item2 > ul {
+    padding-bottom: 30px;
+}
+
+.essential-item2 ul li {
+    font-size: 10px;
+}
+
+.essential-item2 > ul > li a {
+    font-size: 8px;
+    width: 85px;
+    height: 28px;
+    border-radius: 6px;
+}
+
+.essential-item2 > ul > li a i {
+    margin-right: 2px;
+}
+
+.essential-item2 h4 {
+    font-size: 13px;
+}
+
+.essential-item2 h2 {
+    font-size: 18px !important;
+}
+
+.essential-item2 h2 span {
+    font-size: 10px !important;
+    margin-left: 4px;
+}
+.essential-item2-inner3 {
+    padding-top: 30px;
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+}
+.essential-item2-inner3 ul li a {
+    font-size: 10px;
+    width: 120px;
+    height: 35px;
+}
+
+.essential-item2-inner3 div input {
+    width: 90% !important;
+    margin: auto !important;
+    margin-bottom: 5px !important;
+}
+
+/*=== quint essentials-01 page start ===*/
+
+.history-area {
+    padding: 25px;
+}
+
+.history-item {
+    padding-right: 20px;
+    width: 700px;
+}
+
+/*=== luxury raffle pool page start ===*/
+
+.raffle-area {
+    margin-top: -0px;
+}
+
+.raffle-item {
+    padding: 24px 15px;
+}
+
+.raffle-item h2 {
+    font-size: 28px;
+    margin-bottom: 65px;
+}
+
+.raffle-item h2 br {
+    display: none;
+}
+
+.raffle-item img {
+    display: none;
+}
+
+.raffle-item2 {
+    padding: 30px 20px 30px 20px;
+}
+
+.raffle-item2-inner {
+    flex-wrap: wrap;
+}
+
+.raffle-item2-inner2 {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.raffle-item2 h2 br {
+    display: none;
+}
+
+.raffle-item2-inner5 {
+    padding-top: 30px;
+    flex-wrap: wrap;
+}
+
+.raffle-item2-inner6 {
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.raffle-item2-inner5 form {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.raffle-item2-inner5 ul li:nth-of-type(1) a {
+    margin-left: 0;
+}
+.raffle-item2-inner6 input {
+    width: 270px !important;
+    margin: auto;
+}
+.raffle-item5 {
+    padding: 15px 0 35px 0px;
+}
+
+/*=== nft page start ===*/
+
+.collection-area {
+    margin-top: 0;
+}
+
+.collection-item {
+    width: 100%;
+    padding-right: 0px;
+}
+
+.collection-item-inner2 {
+    width: 100%;
+}
+
+.collection-item-inner3 {
+    width: 50%;
+}
+
+.collection-item-inner4 {
+    width: 50%;
+}
+
+.collection-item-inner5 ul {
+    margin: 0 -4px;
+}
+
+.collection-item-inner5 ul li {
+    padding: 0 4px;
+}
+
+.collection-item-inner5 ul li a {
+    width: 35px;
+    height: 35px;
+    font-size: 14px;
+}
+
+.collection-item-inner30 .main-carousel {
+    margin: 0 -5px;
+    padding-right: 25px;
+} 
+
+.collection-item-inner30 .carousel-cell {
+    width: 20%;
+    padding: 0 5px;
+}
+
+.collection-item-inner6 {
+    padding: 0px 0px 25px 0;
+}
+
+.collection-item-inner7 {
+    padding-right: 0px;
+}
+
+.collection-item-inner7 .row {
+    margin: 0 -6px;
+}
+
+.collection-item-inner7 .col-md-4 {
+    padding: 0 6px;
+}
+
+.collection-item-inner20 {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.collection-item-inner9 {
+    margin-left: -0px;
+    margin-right: -0px;
+}
+
+.collection-item-inner8 h3 {
+    font-size: 18px;
+}
+
+.collection-item-inner11 {
+    width: calc(100% - 20px);
+    margin-left: 10px;
+}
+
+.collection-item2 {
+    width: 100%;
+}
+
+/*=== nft-02 page start ===*/
+
+.collection-item5 {
+    margin-bottom: 30px;
+}
+
+.collection-item6-inner .collection-item-inner10 h2 {
+    font-size: 18px;
+}
+
+.collection-item6-inner .collection-item-inner10 h2 span {
+    font-size: 13px;
+}
+
+.collection-item6-inner3 ul {
+    padding: 15px 0 50px;
+}
+
+/*=== nft-04 page start ===*/
+
+.platform-area3 .row {
+    margin: 0 -10px;
+}
+
+.platform-area3 .col-md-4 {
+    padding: 0 10px;
+}
+
+.platform-area3 .collection-item-inner8 {
+    margin-bottom: 30px;
+}
+
+/*=== nft collection page start ===*/
+
+.club-area {
+    padding: 30px 15px 30px;
+    margin-bottom: 30px;
+}
+
+.club-item div {
+    flex: 0 0 70px;
+    width: 70px;
+    margin-right: 15px;
+}
+
+.club-item h2 {
+    font-size: 18px;
+}
+.raffle-item2-inner7 a{
+    width:270px !important;
+    margin:auto;
+}
+.main-accordian-box{
+    overflow-x:scroll;
+}
+}
